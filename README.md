@@ -32,5 +32,5 @@ node index.js
 
 ---
 
-OutPut
+Output
 <img width="538" height="87" alt="image" src="https://github.com/user-attachments/assets/a1214118-97e3-4075-a536-598c1750e5e1" />
